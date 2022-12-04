@@ -1,5 +1,5 @@
-rotate
-iife function 
+//rotate
+//iife function 
 (function rotate(num,k){
 	  let i=0;
 	  while(i<k){
@@ -87,7 +87,7 @@ iife function
                 return result;
                 }
                console.log(odd([5,4,3,6,7,8,9]))
-                out put(4) [5, 3, 7, 9]
+             //   out put(4) [5, 3, 7, 9]
 
                 //iife function
               
